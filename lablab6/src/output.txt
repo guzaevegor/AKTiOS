@@ -1,0 +1,1680 @@
+Каталог: /home/stepanio/projects
+Каталог: /home/stepanio/projects/bsuir
+Каталог: /home/stepanio/projects/bsuir/2-sem
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/5task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/5task
+Количество файлов: 6
+Суммарный размер: 73369 байт
+Самый крупный файл: lex.yy.c (45066 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/10task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/10task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/3task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/3task
+Количество файлов: 6
+Суммарный размер: 72146 байт
+Самый крупный файл: lex.yy.c (44734 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/7task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/7task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/8task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/8task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/12task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/12task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/14task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/14task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/1task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/1task
+Количество файлов: 6
+Суммарный размер: 73073 байт
+Самый крупный файл: lex.yy.c (45297 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/15task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/15task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/6task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/6task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/4task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/4task
+Количество файлов: 6
+Суммарный размер: 72832 байт
+Самый крупный файл: lex.yy.c (44704 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/9task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/9task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/2task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/2task
+Количество файлов: 6
+Суммарный размер: 72290 байт
+Самый крупный файл: lex.yy.c (44790 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/13task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/13task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/11task
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice/11task
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/practice
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/src
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var/src
+Количество файлов: 5
+Суммарный размер: 72178 байт
+Самый крупный файл: lex.yy.c (44676 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/2lab4var
+Количество файлов: 3
+Суммарный размер: 821358 байт
+Самый крупный файл: КТ_методичка.doc (715264 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var/.vscode
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var/.vscode
+Количество файлов: 3
+Суммарный размер: 2577 байт
+Самый крупный файл: tasks.json (1333 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var/prog
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var/prog/.vscode
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var/prog/.vscode
+Количество файлов: 2
+Суммарный размер: 851 байт
+Самый крупный файл: tasks.json (742 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var/prog/output
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var/prog/output
+Количество файлов: 1
+Суммарный размер: 179133 байт
+Самый крупный файл: main.exe (179133 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var/prog
+Количество файлов: 5
+Суммарный размер: 179334 байт
+Самый крупный файл: main.exe (150443 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/1lab5var
+Количество файлов: 3
+Суммарный размер: 222008 байт
+Самый крупный файл: KT_отчет_1509_5вар_1лаб.docx (121133 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/info
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/info
+Количество файлов: 1
+Суммарный размер: 240 байт
+Самый крупный файл: exclude (240 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs/heads
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs/heads
+Количество файлов: 1
+Суммарный размер: 41 байт
+Самый крупный файл: main (41 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs/tags
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs/tags
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs/remotes
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs/remotes/origin
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs/remotes/origin
+Количество файлов: 2
+Суммарный размер: 71 байт
+Самый крупный файл: main (41 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs/remotes
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/refs
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/de
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/de
+Количество файлов: 1
+Суммарный размер: 32 байт
+Самый крупный файл: 651c7e12dcbbfa9f1abfd1245b474578da5eed (32 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d4
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d4
+Количество файлов: 1
+Суммарный размер: 15959 байт
+Самый крупный файл: e80f19e0898bc8e3d548d4f00896a9c612d4ec (15959 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/69
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/69
+Количество файлов: 1
+Суммарный размер: 45 байт
+Самый крупный файл: ea0f41badc3a27d3d951dca14949e3db1ccf52 (45 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/c8
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/c8
+Количество файлов: 1
+Суммарный размер: 161 байт
+Самый крупный файл: 835c6b4aa3b33e0630d565990dcdb920182a75 (161 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/76
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/76
+Количество файлов: 1
+Суммарный размер: 92 байт
+Самый крупный файл: 6681e2f5e1bddcf7e0b09c823e4ee9aa079700 (92 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/bc
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/bc
+Количество файлов: 1
+Суммарный размер: 178 байт
+Самый крупный файл: d7cb7569ae01bce4aa6631abacc1550a9933a2 (178 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/88
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/88
+Количество файлов: 1
+Суммарный размер: 59 байт
+Самый крупный файл: 5eefb1f316e31948434c359bc1daac6cc2c197 (59 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/ed
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/ed
+Количество файлов: 2
+Суммарный размер: 245 байт
+Самый крупный файл: 9469f6be83841babcb7e42615414b11fa5cc84 (212 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/5c
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/5c
+Количество файлов: 1
+Суммарный размер: 69 байт
+Самый крупный файл: 7fc2b4156be1d7ff11b0225c80e68379e08eb6 (69 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/8c
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/8c
+Количество файлов: 2
+Суммарный размер: 1352 байт
+Самый крупный файл: c5bad9c55126a6c55ef67cbf0001af988fe049 (1006 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/8b
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/8b
+Количество файлов: 1
+Суммарный размер: 128 байт
+Самый крупный файл: 8d8e6dc56a3848dca3acb3dca560c184fe4d01 (128 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/08
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/08
+Количество файлов: 1
+Суммарный размер: 57937 байт
+Самый крупный файл: e8e489e8eb99905dcf5493fd17552fe773b24e (57937 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/00
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/00
+Количество файлов: 1
+Суммарный размер: 95 байт
+Самый крупный файл: 90985a0e53675c93cfa3cc03c0e8bbcc3e70bc (95 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/56
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/56
+Количество файлов: 1
+Суммарный размер: 95 байт
+Самый крупный файл: 27e96727bf6ccc8209fa64a2f346b66ca775d4 (95 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d1
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d1
+Количество файлов: 1
+Суммарный размер: 15357 байт
+Самый крупный файл: 851db5d60940096a81d5167458f381394391cb (15357 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/b6
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/b6
+Количество файлов: 1
+Суммарный размер: 431 байт
+Самый крупный файл: 458d7b1ee9710cfd80e4f30e39c3a52543ec96 (431 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/46
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/46
+Количество файлов: 1
+Суммарный размер: 15097 байт
+Самый крупный файл: fde1065e487a9c362e6bd398f6fbc43daef434 (15097 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/info
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/info
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/8f
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/8f
+Количество файлов: 1
+Суммарный размер: 15267 байт
+Самый крупный файл: cedd1aaf5cc1f272e8410298cb659630f28a02 (15267 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/c9
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/c9
+Количество файлов: 1
+Суммарный размер: 320 байт
+Самый крупный файл: 9eda5fdd1887fb38deddc34b0030f426f6a888 (320 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/2e
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/2e
+Количество файлов: 1
+Суммарный размер: 207 байт
+Самый крупный файл: dfbc1a9f4f11e0ca677ae0bed2777c5975cf4e (207 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/01
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/01
+Количество файлов: 1
+Суммарный размер: 584 байт
+Самый крупный файл: 319515b82cc1df1776f664f37c8c61e11b43c2 (584 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/14
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/14
+Количество файлов: 3
+Суммарный размер: 527 байт
+Самый крупный файл: ff4b79b654f1921742b528d8e16d731a04f8fd (262 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/16
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/16
+Количество файлов: 2
+Суммарный размер: 432 байт
+Самый крупный файл: 71f87ada2b46b80e30ee31f909248be29f1810 (226 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/5a
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/5a
+Количество файлов: 1
+Суммарный размер: 140 байт
+Самый крупный файл: 146b3f154e89c979d54d7f3df2295ba16d9335 (140 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/83
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/83
+Количество файлов: 1
+Суммарный размер: 8861 байт
+Самый крупный файл: 892e56d70cc85197b34a1aa937eb3abd73c1e1 (8861 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/b8
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/b8
+Количество файлов: 1
+Суммарный размер: 162 байт
+Самый крупный файл: 51c05e138e76b329bcf087135dccec2cea64ef (162 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d8
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d8
+Количество файлов: 1
+Суммарный размер: 206 байт
+Самый крупный файл: 5a3ecb58d2f4fb85e6e0a0594d5e654f0cca47 (206 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/85
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/85
+Количество файлов: 1
+Суммарный размер: 162 байт
+Самый крупный файл: 8f2d49b267222488d9cdc67a0817fc581b55fc (162 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/9c
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/9c
+Количество файлов: 1
+Суммарный размер: 14968 байт
+Самый крупный файл: 87d2b544b15760471de4ac1d7ad12e4a046930 (14968 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/0b
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/0b
+Количество файлов: 2
+Суммарный размер: 15637 байт
+Самый крупный файл: b26a21122796047552ec469c7ed371f4bd13cb (15481 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/2c
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/2c
+Количество файлов: 1
+Суммарный размер: 9755 байт
+Самый крупный файл: 92502a5a8439462702502fdff64f54ae6cd002 (9755 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/7e
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/7e
+Количество файлов: 1
+Суммарный размер: 169 байт
+Самый крупный файл: 2af0814ae7b3e3cc826a2b57255be89330aa21 (169 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/89
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/89
+Количество файлов: 1
+Суммарный размер: 8873 байт
+Самый крупный файл: afc2c294775c11638ab132918408c9190280ad (8873 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/42
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/42
+Количество файлов: 1
+Суммарный размер: 31 байт
+Самый крупный файл: feed46447deb5ee73ca71785aa7a18bdaadc3f (31 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/7b
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/7b
+Количество файлов: 2
+Суммарный размер: 258 байт
+Самый крупный файл: 2f9ce517543c063957f4891cf814abb6480900 (207 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/f4
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/f4
+Количество файлов: 1
+Суммарный размер: 209 байт
+Самый крупный файл: 8c5d2cf87cb60733ab376e1155e4bdf10ea1b1 (209 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/98
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/98
+Количество файлов: 2
+Суммарный размер: 15294 байт
+Самый крупный файл: ed69d69854c00db9cdb44cfd75abf35c3b8f61 (15242 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/4a
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/4a
+Количество файлов: 1
+Суммарный размер: 63 байт
+Самый крупный файл: c62ee864d3a27067302a685f4713c7f66214a8 (63 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/48
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/48
+Количество файлов: 1
+Суммарный размер: 67 байт
+Самый крупный файл: d11c3034da64620b6834aa6f01239759d0450c (67 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/f5
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/f5
+Количество файлов: 1
+Суммарный размер: 320 байт
+Самый крупный файл: eadd2d0f7c84393245c633127c2d5223c81566 (320 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/33
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/33
+Количество файлов: 1
+Суммарный размер: 181 байт
+Самый крупный файл: 274d8a92d891766e494b8b4343c30f1c03b808 (181 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/4d
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/4d
+Количество файлов: 2
+Суммарный размер: 8942 байт
+Самый крупный файл: e4546fa2104b32f74b62eaec23360ca3d144d8 (8895 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/a6
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/a6
+Количество файлов: 1
+Суммарный размер: 320 байт
+Самый крупный файл: bcf73cd377f74722b9c06526a0b6063c0b74be (320 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/fa
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/fa
+Количество файлов: 1
+Суммарный размер: 175 байт
+Самый крупный файл: 2a19ff3eeedbc98f3e7ecdb1e39ec948d10487 (175 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/64
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/64
+Количество файлов: 1
+Суммарный размер: 15428 байт
+Самый крупный файл: 59f0bbe0659c098d0dcb50ffc19ce980b9d059 (15428 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/pack
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/pack
+Количество файлов: 3
+Суммарный размер: 156639118 байт
+Самый крупный файл: pack-3acc0a29aaa67de29d68f6b5cb9d123b21f31573.pack (156627882 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/2d
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/2d
+Количество файлов: 2
+Суммарный размер: 58891 байт
+Самый крупный файл: 5ae5cd574abbc6b3fe3eb66e80c1d53e33c3d7 (58842 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/da
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/da
+Количество файлов: 1
+Суммарный размер: 47 байт
+Самый крупный файл: 179999232a15aa89efc5ba1c57874f773f427a (47 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/b0
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/b0
+Количество файлов: 1
+Суммарный размер: 254 байт
+Самый крупный файл: 19f1e1d8f28851ccecd878dfa43c4e27290654 (254 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/a8
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/a8
+Количество файлов: 1
+Суммарный размер: 8893 байт
+Самый крупный файл: de758242e7fe328ceb2ba6a7edaefdb3056f68 (8893 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/68
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/68
+Количество файлов: 1
+Суммарный размер: 15253 байт
+Самый крупный файл: 00d8e3d2378ac632128e0a67ea0e80fd229a8b (15253 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/3b
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/3b
+Количество файлов: 1
+Суммарный размер: 8758 байт
+Самый крупный файл: 655f378c3a4b632925efaedb8c249426773ddc (8758 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/70
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/70
+Количество файлов: 1
+Суммарный размер: 243 байт
+Самый крупный файл: b88a6330db8bce0fc8e9ffa063617be3a75cbd (243 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/35
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/35
+Количество файлов: 1
+Суммарный размер: 95 байт
+Самый крупный файл: fd5a88e70077564ce77d20dae9330e88f92ab6 (95 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/02
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/02
+Количество файлов: 1
+Суммарный размер: 117 байт
+Самый крупный файл: a76a301dd0aa1b25aecc4d87b3234598c66c8e (117 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/e2
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/e2
+Количество файлов: 1
+Суммарный размер: 324 байт
+Самый крупный файл: 6851460eeb382904c4a305f6eac0d3331445b0 (324 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/03
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/03
+Количество файлов: 2
+Суммарный размер: 372 байт
+Самый крупный файл: bbd1bfae8f7e11af74055e0f481d401cbd1266 (207 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/e6
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/e6
+Количество файлов: 1
+Суммарный размер: 262 байт
+Самый крупный файл: 294799f029d5d7af8d0f2b6fee11ffe0dc6a3b (262 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/ce
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/ce
+Количество файлов: 1
+Суммарный размер: 42287 байт
+Самый крупный файл: 75c88df8335ff0ef550d333e7892d0e0513e4a (42287 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d5
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d5
+Количество файлов: 1
+Суммарный размер: 226 байт
+Самый крупный файл: 8cefb2bcafefab822dbf85ec2dcfc96ef88690 (226 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/b5
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/b5
+Количество файлов: 1
+Суммарный размер: 237 байт
+Самый крупный файл: 8af29c1481efe72f9d47f5eefbcae321cc0813 (237 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/87
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/87
+Количество файлов: 1
+Суммарный размер: 4434 байт
+Самый крупный файл: 2efd5daa4a96790df5ca9b149f9a24ede7c78e (4434 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/f2
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/f2
+Количество файлов: 1
+Суммарный размер: 51 байт
+Самый крупный файл: b317400da1edcc3f4b365d94e6f59a4c2279b9 (51 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/18
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/18
+Количество файлов: 1
+Суммарный размер: 8758 байт
+Самый крупный файл: a6cf1d0c75177f6cd395ab0f4698bb5126a192 (8758 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d6
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d6
+Количество файлов: 1
+Суммарный размер: 207 байт
+Самый крупный файл: baeff7dd8f3a6ad9943aac95aa0e9641de96c6 (207 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d0
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/d0
+Количество файлов: 2
+Суммарный размер: 312 байт
+Самый крупный файл: 4fe9b19f23f39d83e563483ae4c92275bf6db3 (161 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/a7
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/a7
+Количество файлов: 1
+Суммарный размер: 8849 байт
+Самый крупный файл: 6792048719301cd8310b7b9cf1377754da2e20 (8849 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/26
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/26
+Количество файлов: 3
+Суммарный размер: 43298 байт
+Самый крупный файл: 9061ef858fb23c0776a220ec01269f2976c749 (42707 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/bb
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/bb
+Количество файлов: 1
+Суммарный размер: 34 байт
+Самый крупный файл: ccf42b4b6903b19ff789cc403ea77dad4c5871 (34 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/91
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/91
+Количество файлов: 1
+Суммарный размер: 321 байт
+Самый крупный файл: 457c785511c9f1a018390b0f533673594bf692 (321 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/59
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/59
+Количество файлов: 1
+Суммарный размер: 8828 байт
+Самый крупный файл: 046649db08d984890685d3a2dfce207c8d639d (8828 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/27
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/27
+Количество файлов: 1
+Суммарный размер: 119 байт
+Самый крупный файл: 15d92b702dfe48165255db1ed92c90e532247b (119 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/5e
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/5e
+Количество файлов: 1
+Суммарный размер: 15274 байт
+Самый крупный файл: 022394eca9b58b545a5dc66b51239e8c657e3d (15274 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/6e
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/6e
+Количество файлов: 1
+Суммарный размер: 211 байт
+Самый крупный файл: f9b501cd8a2fc71b5105cfa146ead5338e96d0 (211 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/6d
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/6d
+Количество файлов: 1
+Суммарный размер: 46 байт
+Самый крупный файл: de80ce4508c382f87038a692dfc9ea440b2813 (46 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/c1
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/c1
+Количество файлов: 2
+Суммарный размер: 8880 байт
+Самый крупный файл: f1ef3bdabe4310a832224da12b941b10927129 (8702 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/06
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/06
+Количество файлов: 1
+Суммарный размер: 227 байт
+Самый крупный файл: 1c02d652e43bfb8d3d777e30c13c764ac82198 (227 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/60
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/60
+Количество файлов: 1
+Суммарный размер: 41128 байт
+Самый крупный файл: 20a0fd115c8a499039b9092700f90089b4fa81 (41128 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/04
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/04
+Количество файлов: 1
+Суммарный размер: 320 байт
+Самый крупный файл: 13a31ef807a24b86ae3df644ec146da63b58dc (320 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/09
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/09
+Количество файлов: 1
+Суммарный размер: 43 байт
+Самый крупный файл: e9208b166956f721726c8e89cf1e21d68605c1 (43 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/f1
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/f1
+Количество файлов: 2
+Суммарный размер: 371 байт
+Самый крупный файл: e8ee07369ad9638e0339d82604fb1da7a8014b (320 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/c5
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/c5
+Количество файлов: 1
+Суммарный размер: 151 байт
+Самый крупный файл: 518036898e5bdf1470b22e9ffa320d3c93e7d2 (151 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/32
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/32
+Количество файлов: 1
+Суммарный размер: 261 байт
+Самый крупный файл: d7eb7d336a870d849cbc17e27d7ef29c081f3e (261 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/10
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/10
+Количество файлов: 2
+Суммарный размер: 9021 байт
+Самый крупный файл: 2ee95e32352a9677fd699b54f34bd2ad51831c (8864 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/3a
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects/3a
+Количество файлов: 1
+Суммарный размер: 15168 байт
+Самый крупный файл: a3e31bcfbfc5c20b546c04e13092bdf2167c1b (15168 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/objects
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs/refs
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs/refs/heads
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs/refs/heads
+Количество файлов: 1
+Суммарный размер: 1141 байт
+Самый крупный файл: main (1141 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs/refs/remotes
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs/refs/remotes/origin
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs/refs/remotes/origin
+Количество файлов: 2
+Суммарный размер: 2758 байт
+Самый крупный файл: HEAD (1846 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs/refs/remotes
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs/refs
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/logs
+Количество файлов: 1
+Суммарный размер: 1141 байт
+Самый крупный файл: HEAD (1141 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/hooks
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/hooks
+Количество файлов: 14
+Суммарный размер: 25821 байт
+Самый крупный файл: pre-rebase.sample (4898 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/branches
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git/branches
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/.git
+Количество файлов: 8
+Суммарный размер: 31732 байт
+Самый крупный файл: index (31064 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/Лекции
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/Лекции
+Количество файлов: 16
+Суммарный размер: 100998604 байт
+Самый крупный файл: КТ6.pdf (22718323 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/Теория компиляторов
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/Теория компиляторов
+Количество файлов: 38
+Суммарный размер: 13404680 байт
+Самый крупный файл: 08 Введение в синтаксический анализ.ppt (3400192 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/.idea
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/.idea
+Количество файлов: 4
+Суммарный размер: 672 байт
+Самый крупный файл: modules.xml (262 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/Testing
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/Testing/Temporary
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/Testing/Temporary
+Количество файлов: 1
+Суммарный размер: 121 байт
+Самый крупный файл: LastTest.log (121 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/Testing
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake/api
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake/api/v1
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake/api/v1/query
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake/api/v1/query
+Количество файлов: 4
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake/api/v1/reply
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake/api/v1/reply
+Количество файлов: 7
+Суммарный размер: 38238 байт
+Самый крупный файл: cache-v2-ccac9f443e7a506cc018.json (20077 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake/api/v1
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake/api
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/.cmake
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/CMakeFiles
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/CMakeFiles/3.27.0
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/CMakeFiles/3.27.0/CompilerIdC
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/CMakeFiles/3.27.0/CompilerIdC
+Количество файлов: 2
+Суммарный размер: 42590 байт
+Самый крупный файл: CMakeCCompilerId.c (26502 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/CMakeFiles/3.27.0
+Количество файлов: 3
+Суммарный размер: 18891 байт
+Самый крупный файл: CMakeDetermineCompilerABI_C.bin (15968 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug/CMakeFiles
+Количество файлов: 6
+Суммарный размер: 29465 байт
+Самый крупный файл: CMakeConfigureLog.yaml (26407 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3/cmake-build-debug
+Количество файлов: 6
+Суммарный размер: 55475 байт
+Самый крупный файл: laba3 (20904 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba3
+Количество файлов: 7
+Суммарный размер: 67041 байт
+Самый крупный файл: lex.yy.c (46852 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba2
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba2
+Количество файлов: 4
+Суммарный размер: 72682 байт
+Самый крупный файл: lex.yy.c (44625 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/.idea
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/.idea
+Количество файлов: 4
+Суммарный размер: 672 байт
+Самый крупный файл: modules.xml (262 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/Testing
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/Testing/Temporary
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/Testing/Temporary
+Количество файлов: 1
+Суммарный размер: 139 байт
+Самый крупный файл: LastTest.log (139 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/Testing
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake/api
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake/api/v1
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake/api/v1/query
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake/api/v1/query
+Количество файлов: 4
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake/api/v1/reply
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake/api/v1/reply
+Количество файлов: 7
+Суммарный размер: 44117 байт
+Самый крупный файл: cache-v2-207d6b9f966e3b8e82fd.json (22693 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake/api/v1
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake/api
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/.cmake
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/CMakeFiles
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/CMakeFiles/3.26.4
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC
+Количество файлов: 1
+Суммарный размер: 26502 байт
+Самый крупный файл: CMakeCCompilerId.c (26502 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/CMakeFiles/3.26.4
+Количество файлов: 3
+Суммарный размер: 3454 байт
+Самый крупный файл: CMakeCCompiler.cmake (2805 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/CMakeFiles/laba1.dir
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/CMakeFiles/laba1.dir
+Количество файлов: 1
+Суммарный размер: 6754 байт
+Самый крупный файл: main.c.obj (6754 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug/CMakeFiles
+Количество файлов: 6
+Суммарный размер: 29225 байт
+Самый крупный файл: CMakeConfigureLog.yaml (25730 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1/cmake-build-debug
+Количество файлов: 5
+Суммарный размер: 43454 байт
+Самый крупный файл: build.ninja (23741 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs/laba1
+Количество файлов: 7
+Суммарный размер: 411990 байт
+Самый крупный файл: Шаблон отчета.docx (131950 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT/labs
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы/KT
+Количество файлов: 10
+Суммарный размер: 46051159 байт
+Самый крупный файл: EKZYaP.docx (19474975 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT/лекции по кт и лабы
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KT
+Количество файлов: 4
+Суммарный размер: 3930056 байт
+Самый крупный файл: video_2024-09-15_11-35-57.mp4 (3214554 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab5
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab5
+Количество файлов: 2
+Суммарный размер: 38351 байт
+Самый крупный файл: a.out (36624 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab3
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab3/output
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab3/output
+Количество файлов: 2
+Суммарный размер: 364969 байт
+Самый крупный файл: task2.exe (182531 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab3/build
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab3/build/Debug
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab3/build/Debug
+Количество файлов: 2
+Суммарный размер: 224722 байт
+Самый крупный файл: outDebug.exe (182513 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab3/build
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab3
+Количество файлов: 4
+Суммарный размер: 48769 байт
+Самый крупный файл: логика работы.png (25855 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.vscode
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.vscode
+Количество файлов: 4
+Суммарный размер: 3735 байт
+Самый крупный файл: settings.json (1453 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab6
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab6
+Количество файлов: 2
+Суммарный размер: 20189 байт
+Самый крупный файл: a.out (16464 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/c_prog
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/c_prog/test
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/c_prog/test/.vscode
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/c_prog/test/.vscode
+Количество файлов: 2
+Суммарный размер: 2428 байт
+Самый крупный файл: tasks.json (1362 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/c_prog/test
+Количество файлов: 2
+Суммарный размер: 142144 байт
+Самый крупный файл: hello.exe (140110 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/c_prog
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab1
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab1/.vscode
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab1/.vscode
+Количество файлов: 2
+Суммарный размер: 802 байт
+Самый крупный файл: tasks.json (742 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab1/output
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab1/output
+Количество файлов: 5
+Суммарный размер: 842866 байт
+Самый крупный файл: 5.exe (169278 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab1
+Количество файлов: 13
+Суммарный размер: 1103277 байт
+Самый крупный файл: photo_1_2024-09-09_23-14-31.jpg (147610 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab2
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab2/output
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab2/output
+Количество файлов: 2
+Суммарный размер: 365388 байт
+Самый крупный файл: task2.exe (182950 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab2
+Количество файлов: 4
+Суммарный размер: 292555 байт
+Самый крупный файл: task1.exe (143280 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab4
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab4/.vscode
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab4/.vscode
+Количество файлов: 1
+Суммарный размер: 713 байт
+Самый крупный файл: tasks.json (713 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/lab4
+Количество файлов: 7
+Суммарный размер: 88243 байт
+Самый крупный файл: 3task (20736 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/info
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/info
+Количество файлов: 1
+Суммарный размер: 240 байт
+Самый крупный файл: exclude (240 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs/heads
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs/heads
+Количество файлов: 1
+Суммарный размер: 41 байт
+Самый крупный файл: main (41 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs/tags
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs/tags
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs/remotes
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs/remotes/origin
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs/remotes/origin
+Количество файлов: 2
+Суммарный размер: 71 байт
+Самый крупный файл: main (41 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs/remotes
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/refs
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/de
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/de
+Количество файлов: 1
+Суммарный размер: 1205 байт
+Самый крупный файл: f3e2cff12729eaab70a7e4dfac25e7c6598b73 (1205 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/8d
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/8d
+Количество файлов: 1
+Суммарный размер: 64001 байт
+Самый крупный файл: 12f7fd580410759f000b749fb6de3e746ffe0a (64001 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/30
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/30
+Количество файлов: 1
+Суммарный размер: 228 байт
+Самый крупный файл: b5537724e0a5217f21a64ed0c50504feccd9db (228 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/9d
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/9d
+Количество файлов: 1
+Суммарный размер: 252 байт
+Самый крупный файл: 60feaf4a47c6f3dd68c0f139c0431aff8183af (252 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/76
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/76
+Количество файлов: 1
+Суммарный размер: 182 байт
+Самый крупный файл: b1f8200438db2bb82d821d743ef618a9bedf58 (182 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/b4
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/b4
+Количество файлов: 1
+Суммарный размер: 227 байт
+Самый крупный файл: 4cf80d080d7beb5139dfc1d768e16c15f3222e (227 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/95
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/95
+Количество файлов: 1
+Суммарный размер: 3817 байт
+Самый крупный файл: 0026f3b29dcf947a0ca08a22be4741eebde224 (3817 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/92
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/92
+Количество файлов: 1
+Суммарный размер: 47 байт
+Самый крупный файл: 6637ef93972ea4f49000f0ff1bd72d9b195238 (47 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/88
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/88
+Количество файлов: 1
+Суммарный размер: 227 байт
+Самый крупный файл: 4c709703f5a7e0d350d2a7cf0f5be4c25c1c5c (227 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/08
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/08
+Количество файлов: 1
+Суммарный размер: 315 байт
+Самый крупный файл: d9005bbbd76d06141502d56bdc880e9c7ef8cc (315 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/56
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/56
+Количество файлов: 1
+Суммарный размер: 198 байт
+Самый крупный файл: 3fb3996ef58bd256eac9a8d41bb9a5e541dc65 (198 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/ef
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/ef
+Количество файлов: 1
+Суммарный размер: 220 байт
+Самый крупный файл: ea7f3dc167699326452fdda6a389aec38fc0b6 (220 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/b6
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/b6
+Количество файлов: 1
+Суммарный размер: 431 байт
+Самый крупный файл: 458d7b1ee9710cfd80e4f30e39c3a52543ec96 (431 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/65
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/65
+Количество файлов: 1
+Суммарный размер: 3447 байт
+Самый крупный файл: a02adecb2dee66d3f05b2b9cc0836e808d49bc (3447 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/a3
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/a3
+Количество файлов: 1
+Суммарный размер: 216 байт
+Самый крупный файл: d4300b243bfcd6617a9b0d0d3f25ee7a6ba13e (216 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/info
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/info
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/f7
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/f7
+Количество файлов: 1
+Суммарный размер: 6030 байт
+Самый крупный файл: b6741a9e9e01c4510b056917004a6c1733108c (6030 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/2e
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/2e
+Количество файлов: 2
+Суммарный размер: 327 байт
+Самый крупный файл: b076822dedbb0d20bdf787e0c6116424570f85 (165 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/1c
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/1c
+Количество файлов: 1
+Суммарный размер: 162 байт
+Самый крупный файл: 892b386da7d574fc304a051742e8ff44683688 (162 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/14
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/14
+Количество файлов: 1
+Суммарный размер: 6191 байт
+Самый крупный файл: 2cceaf1e083daf61a3f595a56d004bea2a6553 (6191 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/be
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/be
+Количество файлов: 1
+Суммарный размер: 228 байт
+Самый крупный файл: 2f5655275adae254997d7e87e505eab6346322 (228 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/b8
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/b8
+Количество файлов: 2
+Суммарный размер: 401 байт
+Самый крупный файл: 5807be1cc2fb98805fbd60b339d04aa23b8691 (229 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/29
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/29
+Количество файлов: 1
+Суммарный размер: 1376 байт
+Самый крупный файл: 632b70825252cb4c760110dab5dbb984ae75a1 (1376 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/d7
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/d7
+Количество файлов: 1
+Суммарный размер: 1495 байт
+Самый крупный файл: baad6975f0fd49f21ae07f5fe0fae1c9d75cbb (1495 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/99
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/99
+Количество файлов: 1
+Суммарный размер: 201 байт
+Самый крупный файл: d267684b6b1ad5c267d16af65d678694a15c9a (201 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/bf
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/bf
+Количество файлов: 1
+Суммарный размер: 55 байт
+Самый крупный файл: dd94286a5845175f1aeaa69b61048328409cbf (55 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/40
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/40
+Количество файлов: 1
+Суммарный размер: 85 байт
+Самый крупный файл: 59fe8a7f46e7c4b731ea6148e4f982e47a6408 (85 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/66
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/66
+Количество файлов: 1
+Суммарный размер: 158 байт
+Самый крупный файл: e98993ea4954dcd210d102482d152e4e1f0b2e (158 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/11
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/11
+Количество файлов: 1
+Суммарный размер: 1376 байт
+Самый крупный файл: ba2b9c72c6ae2bf25f4d8908a3bfd8208d55b0 (1376 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/f9
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/f9
+Количество файлов: 2
+Суммарный размер: 410 байт
+Самый крупный файл: 403a3e3a097ce1e0eed869b80c84b6c3bb9ba4 (251 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/pack
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/pack
+Количество файлов: 3
+Суммарный размер: 671311 байт
+Самый крупный файл: pack-7949f9adc5421ad6cf49f7ec0aeb71bdf05fcf04.pack (667691 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/e7
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/e7
+Количество файлов: 1
+Суммарный размер: 15450 байт
+Самый крупный файл: 6a230ba753ae949f5b7ccbee9f6754f0dc7559 (15450 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/ac
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/ac
+Количество файлов: 1
+Суммарный размер: 226 байт
+Самый крупный файл: 5d4cbf9605af35a804cec2fe12f93952c26992 (226 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/3b
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/3b
+Количество файлов: 1
+Суммарный размер: 199 байт
+Самый крупный файл: 508641b69d6d53b214393ecd98056cc4e401c1 (199 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/e2
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/e2
+Количество файлов: 1
+Суммарный размер: 5753 байт
+Самый крупный файл: 35f067b5ad4705e921f0c981d3accd35485dd6 (5753 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/db
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/db
+Количество файлов: 2
+Суммарный размер: 1101 байт
+Самый крупный файл: e0a63fb9c71aa40507dd39a6e272409abe9eaa (847 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/ae
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/ae
+Количество файлов: 1
+Суммарный размер: 3741 байт
+Самый крупный файл: 95fc4654899ee96562ce6a7cff80d6e667ee55 (3741 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/03
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/03
+Количество файлов: 1
+Суммарный размер: 239 байт
+Самый крупный файл: 0ccdaa7ee7d29fb5da8e3668a625cd2fa64db9 (239 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/e6
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/e6
+Количество файлов: 1
+Суммарный размер: 194 байт
+Самый крупный файл: 3be855e330922a2565006feb0df664eebe2a8a (194 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/7c
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/7c
+Количество файлов: 1
+Суммарный размер: 324 байт
+Самый крупный файл: 9c815696a43154a91d7364f4d3ca24100d24ba (324 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/e5
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/e5
+Количество файлов: 1
+Суммарный размер: 228 байт
+Самый крупный файл: f464121afe942d302f2d51a50bc005b9d0cec5 (228 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/45
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/45
+Количество файлов: 2
+Суммарный размер: 7255 байт
+Самый крупный файл: 71b7005c86ca79ce8ed896bc9ce0004c6433d3 (5812 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/d5
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/d5
+Количество файлов: 1
+Суммарный размер: 88 байт
+Самый крупный файл: 367cc86b0dc2a531ddb773fd0c813ad0375d0b (88 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/87
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/87
+Количество файлов: 1
+Суммарный размер: 1068 байт
+Самый крупный файл: 83fa0785826615a03dce35d1580c73e370e062 (1068 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/dc
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/dc
+Количество файлов: 1
+Суммарный размер: 3799 байт
+Самый крупный файл: b82108fc4bed233479cd9ca8b1fa6f96c27e51 (3799 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/15
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/15
+Количество файлов: 1
+Суммарный размер: 87 байт
+Самый крупный файл: 0a67ba7a85c293ca4729783f9988c2b3456ad7 (87 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/26
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/26
+Количество файлов: 1
+Суммарный размер: 384 байт
+Самый крупный файл: 91fe551a1bec5022655a2cb0567f384d0d34ea (384 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/bb
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/bb
+Количество файлов: 1
+Суммарный размер: 544 байт
+Самый крупный файл: 879da5a0774e5e3a4e5e90dba7a0770370c0f7 (544 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/7f
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/7f
+Количество файлов: 1
+Суммарный размер: 251 байт
+Самый крупный файл: 3b26fd7436f657306bf50fae7ea814afc4625f (251 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/78
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/78
+Количество файлов: 1
+Суммарный размер: 1277 байт
+Самый крупный файл: 50635da2e9bd13644169d84e8c50a9de80f9d5 (1277 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/36
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/36
+Количество файлов: 1
+Суммарный размер: 213 байт
+Самый крупный файл: 0efe8039b987c971d26ae39b84d25daad17203 (213 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/43
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects/43
+Количество файлов: 1
+Суммарный размер: 85 байт
+Самый крупный файл: b5d253cda920fc255f9930b90c87ed8c60a8b4 (85 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/objects
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs/refs
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs/refs/heads
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs/refs/heads
+Количество файлов: 1
+Суммарный размер: 884 байт
+Самый крупный файл: main (884 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs/refs/remotes
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs/refs/remotes/origin
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs/refs/remotes/origin
+Количество файлов: 2
+Суммарный размер: 2294 байт
+Самый крупный файл: HEAD (1681 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs/refs/remotes
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs/refs
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/logs
+Количество файлов: 1
+Суммарный размер: 884 байт
+Самый крупный файл: HEAD (884 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/hooks
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/hooks
+Количество файлов: 14
+Суммарный размер: 25827 байт
+Самый крупный файл: pre-rebase.sample (4898 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/branches
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git/branches
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO/.git
+Количество файлов: 8
+Суммарный размер: 5737 байт
+Самый крупный файл: index (5025 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/KPO
+Количество файлов: 1
+Суммарный размер: 66 байт
+Самый крупный файл: .gitattributes (66 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS
+Каталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5
+Каталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/Лабораторная работа 5
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/Лабораторная работа 5
+Количество файлов: 2
+Суммарный размер: 245638 байт
+Самый крупный файл: 2 Лаб 2 работа  с файловой системой.docx (173434 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/src
+Каталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/src/dir2
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/src/dir2
+Количество файлов: 2
+Суммарный размер: 5 байт
+Самый крупный файл: 1.txt (3 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/src/dir1
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/src/dir1
+Количество файлов: 2
+Суммарный размер: 4 байт
+Самый крупный файл: 1.txt (2 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/src
+Количество файлов: 3
+Суммарный размер: 1368 байт
+Самый крупный файл: task.txt (647 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab6
+Каталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab6/src
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab6/src
+Количество файлов: 4
+Суммарный размер: 97547 байт
+Самый крупный файл: output.txt (77824 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab6
+Количество файлов: 2
+Суммарный размер: 34980 байт
+Самый крупный файл: Лабораторная работа 6_2023.docx (34885 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/AKTiOS
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.vscode
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.vscode
+Количество файлов: 1
+Суммарный размер: 713 байт
+Самый крупный файл: tasks.json (713 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/info
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/info
+Количество файлов: 1
+Суммарный размер: 240 байт
+Самый крупный файл: exclude (240 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs/heads
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs/heads
+Количество файлов: 1
+Суммарный размер: 41 байт
+Самый крупный файл: main (41 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs/tags
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs/tags
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs/remotes
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs/remotes/origin
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs/remotes/origin
+Количество файлов: 1
+Суммарный размер: 41 байт
+Самый крупный файл: main (41 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs/remotes
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/refs
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/08
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/08
+Количество файлов: 1
+Суммарный размер: 315 байт
+Самый крупный файл: d9005bbbd76d06141502d56bdc880e9c7ef8cc (315 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/info
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/info
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/0c
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/0c
+Количество файлов: 1
+Суммарный размер: 133 байт
+Самый крупный файл: ffa11b116da9610378219d160a08967839f701 (133 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/bf
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/bf
+Количество файлов: 1
+Суммарный размер: 55 байт
+Самый крупный файл: dd94286a5845175f1aeaa69b61048328409cbf (55 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/pack
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/pack
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/68
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/68
+Количество файлов: 1
+Суммарный размер: 139 байт
+Самый крупный файл: 4ae084fb9517cbc43c3d2ae4fc6edfa8c0d0da (139 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/aa
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/aa
+Количество файлов: 1
+Суммарный размер: 2475 байт
+Самый крупный файл: 894b8240fccb883b632bdea5e210eea3bbf42c (2475 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/2b
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/2b
+Количество файлов: 1
+Суммарный размер: 2972 байт
+Самый крупный файл: 4116d31f5f258e75e46048b4a34559762f0870 (2972 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/0a
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects/0a
+Количество файлов: 1
+Суммарный размер: 261 байт
+Самый крупный файл: b0f0273b77b0d2e806de7cb05918d559c5bf48 (261 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/objects
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs/refs
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs/refs/heads
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs/refs/heads
+Количество файлов: 1
+Суммарный размер: 168 байт
+Самый крупный файл: main (168 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs/refs/remotes
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs/refs/remotes/origin
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs/refs/remotes/origin
+Количество файлов: 1
+Суммарный размер: 152 байт
+Самый крупный файл: main (152 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs/refs/remotes
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs/refs
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/logs
+Количество файлов: 1
+Суммарный размер: 168 байт
+Самый крупный файл: HEAD (168 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/hooks
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/hooks
+Количество файлов: 14
+Суммарный размер: 25821 байт
+Самый крупный файл: pre-rebase.sample (4898 байт)
+
+Каталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/branches
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git/branches
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c/.git
+Количество файлов: 6
+Суммарный размер: 857 байт
+Самый крупный файл: index (393 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem/test-c
+Количество файлов: 3
+Суммарный размер: 33414 байт
+Самый крупный файл: a (17064 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir/2-sem
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects/bsuir
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
+Подкаталог: /home/stepanio/projects
+Количество файлов: 0
+Суммарный размер: 0 байт
+Самый крупный файл:  (0 байт)
+
