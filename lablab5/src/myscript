@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# Проверка на наличие двух аргументов
+if [ "$#" -ne 2 ]; then
+    echo "Использование: $0 <Dir1> <Dir2>"
+    exit 1
+fi
+
+Dir1=$1
+Dir2=$2
+files_checked=0
+
+# Поиск файлов в Dir1 и сравнение их с файлами в Dir2
+for file1 in "$Dir1"/*; do
+    for file2 in "$Dir2"/*; do
+        ((files_checked++))
+        if cmp -s "$file1" "$file2"; then
+            echo "Одинаковые файлы: $file1 и $file2"
+        fi
+    done
+done
+
+echo "Число просмотренных файлов: $files_checked"
+

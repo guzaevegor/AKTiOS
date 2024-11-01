@@ -1,0 +1,2 @@
+./myscript /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/src/dir1 /home/stepanio/projects/bsuir/2-sem/AKTiOS/lab5/src/dir2
+
