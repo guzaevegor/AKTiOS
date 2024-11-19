@@ -16,9 +16,10 @@ for file1 in "$Dir1"/*; do
         ((files_checked++))
         if cmp -s "$file1" "$file2"; then
             echo "Одинаковые файлы: $file1 и $file2"
+    else
+      echo "Файлы $file1 и $file2 разные "
         fi
     done
 done
 
 echo "Число просмотренных файлов: $files_checked"
-
